@@ -25,3 +25,14 @@ To analyze customer data in Excel and uncover key factors influencing bike purch
 
 ## Dashboard
 <img width="1119" height="633" alt="Screenshot 2025-09-30 144314" src="https://github.com/user-attachments/assets/94aea04d-d31c-405f-a597-7fc65f2e1ee5" />
+
+## Project Insights
+- Nearly 48% of respondents purchased a bike, showing that almost half of the surveyed customers are bike buyers.
+- The Pacific region stood out with the highest purchase rate (~59%), suggesting stronger demand compared to other regions.
+- Single customers were more likely to buy bikes than married ones, pointing to lifestyle differences in purchasing behavior.
+- Females showed a slightly higher purchase rate than males, though both genders displayed strong interest overall.
+- Customers who purchased had a slightly higher average income than non-purchasers, though the gap was not very large.
+- Younger customers were more likely to purchase, with the likelihood of buying decreasing gradually as age increased.
+
+## Conclusion
+The data shows that bikes are most popular among younger, single customers with slightly higher incomes, with the Pacific region leading in purchases. These trends point to clear opportunities for businesses to focus their marketing on the groups most likely to buy.
