@@ -24,3 +24,4 @@ To analyze customer data in Excel and uncover key factors influencing bike purch
 - Documented findings and structured the project for easy sharing.
 
 ## Dashboard
+<img width="1119" height="633" alt="Screenshot 2025-09-30 144314" src="https://github.com/user-attachments/assets/94aea04d-d31c-405f-a597-7fc65f2e1ee5" />
