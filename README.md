@@ -12,3 +12,5 @@ To analyze customer data in Excel and uncover key factors influencing bike purch
 - What is the purchase rate by region?
 - What is the purchase rate by marital status?
 - How do family size indicators (children, cars owned) relate to bike purchases?
+
+- Dashboard Interaction <a href="https://github.com/Eclane-Okenyo/Bike-Sales-Analysis-Dashboard/blob/main/Screenshot%202025-09-30%20144314.png">View Dashboard</a>
