@@ -14,3 +14,13 @@ To analyze customer data in Excel and uncover key factors influencing bike purch
 - How do family size indicators (children, cars owned) relate to bike purchases?
 
 - Dashboard Interaction <a href="https://github.com/Eclane-Okenyo/Bike-Sales-Analysis-Dashboard/blob/main/Screenshot%202025-09-30%20144314.png">View Dashboard</a>
+
+## Process
+- Collected and explored the raw Bike Buyers dataset in Excel.
+- Cleaned the data (removed errors, normalized values, created purchase flag).
+- Calculated key KPIs such as purchase rate, average income, and age.
+- Built PivotTables to analyze purchase trends by gender, region, and marital status.
+- Designed charts and dashboards to visualize insights.
+- Documented findings and structured the project for easy sharing on GitHub.
+
+## Dashboard
