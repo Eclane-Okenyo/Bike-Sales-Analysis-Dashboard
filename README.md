@@ -21,6 +21,6 @@ To analyze customer data in Excel and uncover key factors influencing bike purch
 - Calculated key KPIs such as purchase rate, average income, and age.
 - Built PivotTables to analyze purchase trends by gender, region, and marital status.
 - Designed charts and dashboards to visualize insights.
-- Documented findings and structured the project for easy sharing on GitHub.
+- Documented findings and structured the project for easy sharing.
 
 ## Dashboard
